@@ -25,7 +25,7 @@
   <li><b>WhatsApp</b> <a href="https://github.com/Rodrigolara05/Flutter-WhatsApp-Clone/" target="_blank">[Github]</a> 
    - <a href="https://youtu.be/x-lpMDZaHo8" target="_blank">[Youtube]</a></li>
   <li><b>Twitter</b> <a href="https://github.com/Rodrigolara05/Flutter-Twitter-Clone/" target="_blank">[Github]</a> 
-   - <a href="https://youtube.com/CodigoFuente" target="_blank">[Youtube]</a></li>
+   - <a href="https://youtu.be/Sek8ZVr4IWY" target="_blank">[Youtube]</a></li>
 </ol>
 
 ## Para Empezar 📌
