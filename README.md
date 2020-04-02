@@ -14,14 +14,24 @@
 ## Capturas 📹
 
 <p align="center">
-  <a href="https://github.com/Rodrigolara05/Flutter-WhatsApp-Clone/" target="_blank">
+<a href="https://github.com/Rodrigolara05/Flutter-WhatsApp-Clone/" target="_blank">
 <img src="https://github.com/Rodrigolara05/Flutter-WhatsApp-Clone/blob/master/README-gif/captura-principal.gif" width="150" />
-  </a>
+</a>
+<a href="https://github.com/Rodrigolara05/Flutter-Twitter-Clone/" target="_blank">
 <img src="https://github.com/Rodrigolara05/Flutter-Twitter-Clone/blob/master/README-gif/captura-principal.gif" width="150" />
+</a>
+<a href="https://github.com/Rodrigolara05/Flutter-Netflix-Clone/" target="_blank">
 <img src="https://github.com/Rodrigolara05/Flutter-Netflix-Clone/blob/master/README-gif/captura-principal.gif" width="150" />
+</a>
+<a href="https://github.com/Rodrigolara05/Flutter-FBMessenger-Clone/" target="_blank">
 <img src="https://github.com/Rodrigolara05/Flutter-FBMessenger-Clone/blob/master/README-gif/captura-principal.gif" width="150" />
+</a>
+<a href="https://github.com/Rodrigolara05/Flutter-Youtube-Clone/" target="_blank">
 <img src="https://github.com/Rodrigolara05/Flutter-Youtube-Clone/blob/master/README-gif/captura-principal.gif" width="150" />
+</a>
+<a href="https://github.com/Rodrigolara05/My-Son-Birthday-SQLite-Flutter/" target="_blank">
 <img src="https://github.com/Rodrigolara05/My-Son-Birthday-SQLite-Flutter/blob/master/README-gif/captura-principal.gif" width="150" />
+</a>
 </p>
 
 ## Ejemplos de aplicaciones + Link de Youtube 📌
