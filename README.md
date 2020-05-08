@@ -46,7 +46,7 @@
   <li><b>Messenger</b> <a href="https://github.com/Rodrigolara05/Flutter-FBMessenger-Clone/" target="_blank">[Github]</a> 
    - <a href="https://youtu.be/VxZmqwWJv-U" target="_blank">[Youtube]</a></li>
   <li><b>Youtube</b> <a href="https://github.com/Rodrigolara05/Flutter-Youtube-Clone/" target="_blank">[Github]</a> 
-   - <a href="https://www.youtube.com/codigofuente" target="_blank">[Youtube]</a></li>
+   - <a href="https://youtu.be/cdWulgAl9KM" target="_blank">[Youtube]</a></li>
 </ol>
 
 ## Para Empezar 📌
