@@ -32,6 +32,9 @@
 <a href="https://github.com/Rodrigolara05/My-Son-Birthday-SQLite-Flutter/" target="_blank">
 <img src="https://github.com/Rodrigolara05/My-Son-Birthday-SQLite-Flutter/blob/master/README-gif/captura-principal.gif" width="150" />
 </a>
+  <a href="https://github.com/Rodrigolara05/Flutter-Covid19-App/" target="_blank">
+<img src="https://github.com/Rodrigolara05/Flutter-Covid19-App/blob/master/git-resources/1.%20gif/1.%20Gif.gif" width="150" />
+</a>
 </p>
 
 ## Ejemplos de aplicaciones + Link de Youtube 📌
