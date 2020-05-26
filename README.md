@@ -55,7 +55,12 @@
   <li><b>SQLite - App My Son Birthday</b> <a href="https://github.com/Rodrigolara05/My-Son-Birthday-SQLite-Flutter/" target="_blank">[Github]</a> 
    - <a href="https://youtube.com/CodigoFuente" target="_blank">[Youtube]</a></li>
 </ol>
+## Avanzado 📌
 
+<ol>
+  <li><b>Sudamérica Unida - App sobre el covid-19 </b> <a href="https://github.com/Rodrigolara05/Flutter-Covid19-App" target="_blank">[Github]</a> 
+   - <a href="https://youtube.com/CodigoFuente" target="_blank">[Youtube]</a></li>
+</ol>
 ## Autor ✒️
 
 * **Rodrigo Max Lara Camarena** -  [Linkedin](https://www.linkedin.com/in/rodrigolara05)
