@@ -1,6 +1,6 @@
 # Flutter Apps
 
-## Canal de Youtube 🚀
+## Canal de YouTube 🚀
 
 <p align="center">
   <a title="Codigo Fuente" href="https://www.youtube.com/codigofuente" target="_blank">
