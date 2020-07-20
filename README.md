@@ -46,7 +46,7 @@
    - <a href="https://youtu.be/Sek8ZVr4IWY" target="_blank">[YouTube]</a></li>
   <li><b>Netflix</b> <a href="https://github.com/Rodrigolara05/Flutter-Netflix-Clone/" target="_blank">[GitHub]</a> 
    - <a href="https://youtu.be/Qwwi8DiUJ60" target="_blank">[YouTube]</a></li>
-  <li><b>Messenger</b> <a href="https://github.com/Rodrigolara05/Flutter-FBMessenger-Clone/" target="_blank">[GitHub]</a> 
+  <li><b>Messenger</b> <a href="https://github.com/Rodrigolara05/Flutter-Messenger-Clone/" target="_blank">[GitHub]</a> 
    - <a href="https://youtu.be/VxZmqwWJv-U" target="_blank">[YouTube]</a></li>
   <li><b>Youtube</b> <a href="https://github.com/Rodrigolara05/Flutter-Youtube-Clone/" target="_blank">[GitHub]</a> 
    - <a href="https://youtu.be/cdWulgAl9KM" target="_blank">[YouTube]</a></li>
