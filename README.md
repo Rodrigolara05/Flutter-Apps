@@ -73,4 +73,4 @@
 ### Pre-requisitos 📋
 
 Para poder trabajar con el siguiente proyecto debe de tener conocimientos basicos en el desarrollo de aplicaciones moviles.
-Asi como tener conocimientos en el lenguaje de programación Dart.
+Así como tener conocimientos en el lenguaje de programación Dart.
